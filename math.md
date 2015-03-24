@@ -31,3 +31,5 @@ Efter varje uppgift ska ni *commita* lösningen.
 
 
 Lycka till.
+
+Hallå där kött och blåbär.
